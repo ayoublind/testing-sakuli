@@ -1,0 +1,1131 @@
+INFO  [2021-08-07 19:41:38.679] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:41:38.719] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:41:38.719] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:41:38.720] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:41:38.721] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:41:38.721] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:41:38.722] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:41:38.722] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:41:38.753] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:41:38.788] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:41:38.844] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:41:39.144] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:41:39.152] - test suite with guid 'example_xfce__2021_08_07_19_41_38_847' has been initialized!
+INFO  [2021-08-07 19:41:39.153] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:41:39.155] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:41:39.159] - added '<script src='/_s_/spr/sakuli/inject.js'></script>' to Sahi inject config file '/headless/sakuli/sahi/config/inject_top.txt'
+INFO  [2021-08-07 19:41:39.196] - copied file '/headless/sakuli/sakuli-v1.1.0/libs/js/internal/inject.js' to target '/headless/sakuli/sahi/htdocs/spr/sakuli/inject.js'
+INFO  [2021-08-07 19:41:39.445] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:41:39.451] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:41:39.458] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:41:39.584] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:41:39.627] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:41:39.628] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:41:39.629] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:41:39.630] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:41:39.630] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:41:39.631] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:41:39.631] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:41:39.646] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:41:39.663] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:41:39.686] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:41:39.712] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:41:39.721] - test suite with guid 'example_xfce__2021_08_07_19_41_39_687' has been initialized!
+INFO  [2021-08-07 19:41:39.722] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:41:39.723] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:41:39.726] - added '<script src='/_s_/spr/sakuli/inject.js'></script>' to Sahi inject config file '/headless/sakuli/sahi/config/inject_top.txt'
+INFO  [2021-08-07 19:41:39.741] - copied file '/headless/sakuli/sakuli-v1.1.0/libs/js/internal/inject.js' to target '/headless/sakuli/sahi/htdocs/spr/sakuli/inject.js'
+INFO  [2021-08-07 19:41:39.993] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:41:40.011] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:41:40.038] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:41:40.086] - Add RhinoScriptRunner to the JavaBackEnd
+INFO  [2021-08-07 19:41:40.635] - Add RhinoScriptRunner to the JavaBackEnd
+WARN  [2021-08-07 19:41:45.025] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/translate_googleapis_com
+----
+INFO  [2021-08-07 19:41:45.449] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:41:45.473] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:41:45.475] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:41:45.477] - test-case-id = case1
+INFO  [2021-08-07 19:41:45.478] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:41:45.480] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:41:45.568] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:41:45.582] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:41:45.604] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:41:45.624] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:41:45.638] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:41:45.652] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:41:45.657] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:41:45.760] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:41:45.805] - Detected distribution: CentOS  >> overwrite some image patterns
+INFO  [2021-08-07 19:41:45.806] - "test case [id=case1, name=case1]" TestCaseAction.addImagePaths() with arg(s) [[/opt/test/example_xfce/case1/centos]]
+INFO  [2021-08-07 19:41:45.807] - load all pics from "/opt/test/example_xfce/case1/centos" in picLib
+INFO  [2021-08-07 19:41:45.827] - loaded image [id=625, path=/opt/test/example_xfce/case1/centos/625.png ]
+INFO  [2021-08-07 19:41:45.842] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/centos/calculator.png ]
+INFO  [2021-08-07 19:41:45.858] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/centos/gedit.png ]
+INFO  [2021-08-07 19:41:45.893] - loaded image [id=plus, path=/opt/test/example_xfce/case1/centos/plus.png ]
+INFO  [2021-08-07 19:41:45.908] - loaded image [id=result, path=/opt/test/example_xfce/case1/centos/result.png ]
+WARN  [2021-08-07 19:41:46.012] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/tiles_services_mozilla_com
+----
+INFO  [2021-08-07 19:41:46.029] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:41:46.148] - _highlight(_link("Logs"));
+INFO  [2021-08-07 19:41:46.264] - _highlight(_link("Online Documentation"));
+INFO  [2021-08-07 19:41:46.377] - _highlight(_link("Test Pages"));
+INFO  [2021-08-07 19:41:46.491] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:41:46.514] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628365305478, 1628365306514, 10]
+INFO  [2021-08-07 19:41:46.516] - "/usr/bin/gnome-calculator" Application.open() - open application
+INFO  [2021-08-07 19:41:47.592] - Application '/usr/bin/gnome-calculator PID:500' is running
+INFO  [2021-08-07 19:41:47.596] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+INFO  [2021-08-07 19:41:53.245] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:41:53.263] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:41:53.266] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:41:53.268] - test-case-id = case1
+INFO  [2021-08-07 19:41:53.270] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:41:53.271] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:41:53.432] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:41:53.445] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:41:53.462] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:41:53.481] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:41:53.495] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:41:53.509] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:41:53.512] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:41:53.600] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:41:53.727] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:41:53.859] - "R[486,352 20x24]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:41:53.876] - _highlight(_link("Logs"));
+WARN  [2021-08-07 19:41:53.896] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+INFO  [2021-08-07 19:41:54.017] - _highlight(_link("Online Documentation"));
+WARN  [2021-08-07 19:41:54.089] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+INFO  [2021-08-07 19:41:54.154] - _highlight(_link("Test Pages"));
+INFO  [2021-08-07 19:41:54.269] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:41:54.355] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628365313269, 1628365314355, 10]
+INFO  [2021-08-07 19:41:54.357] - "/usr/bin/gnome-calculator" Application.open() - open application
+WARN  [2021-08-07 19:41:54.735] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/shavar_services_mozilla_com
+----
+INFO  [2021-08-07 19:41:54.895] - "R[486,352 20x24]@S(0)" Region.mouseMove()
+INFO  [2021-08-07 19:41:55.366] - Application '/usr/bin/gnome-calculator PID:526' is running
+INFO  [2021-08-07 19:41:55.368] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+INFO  [2021-08-07 19:41:55.406] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:41:55.509] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+INFO  [2021-08-07 19:41:57.033] - "R[486,375 19x25]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:41:57.513] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:41:57.522] - "R[469,336 342x382]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:41:58.061] - "R[486,375 19x25]@S(0)" Region.mouseMove()
+INFO  [2021-08-07 19:41:58.567] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:41:58.584] - "R[655,681 23x20]@S(0)" Region.click()
+INFO  [2021-08-07 19:41:58.678] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+INFO  [2021-08-07 19:41:59.519] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:41:59.619] - "M[655,681 23x20]@S(S(0)[0,0 1280x1024]) S:1.00 C:666,691 [47 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:42:00.680] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:42:00.683] - "R[740,684 14x12]@S(0)" Region.click()
+INFO  [2021-08-07 19:42:00.694] - "R[471,363 338x327]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:42:01.614] - "M[486,352 20x24]@S(S(0)[0,0 1280x1024]) S:1.00 C:496,364 [108 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:42:01.813] - "R[660,662 13x13]@S(0)" Region.click()
+INFO  [2021-08-07 19:42:02.740] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:42:02.835] - "M[660,662 13x13]@S(S(0)[0,0 1280x1024]) S:0.99 C:666,668 [96 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:42:03.815] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628365306514, 1628365323814, 20]
+INFO  [2021-08-07 19:42:03.816] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:42:03.891] - "R[712,660 75x18]@S(0)" Region.click()
+INFO  [2021-08-07 19:42:04.819] - "M[486,375 19x25]@S(S(0)[0,0 1280x1024]) S:0.99 C:495,387 [466 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:42:04.826] - Application '/usr/bin/gedit PID:777' is running
+INFO  [2021-08-07 19:42:04.827] - "M[749,512 45x21]@S(S(0)[0,0 1280x1024]) S:1.00 C:771,522 [67 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [gedit.png, 10]
+INFO  [2021-08-07 19:42:06.258] - Environment.paste() with arg(s) [Initial test passed. Sakuli, Sahi and Sikuli seem to work fine. Exiting...]
+INFO  [2021-08-07 19:42:06.335] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Editor, 1628365323814, 1628365326335, 20]
+INFO  [2021-08-07 19:42:06.337] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:42:06.337] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:42:06.350] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:42:06.353] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:42:06.460] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:42:06.582] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:42:06.658] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628365305478, 1628365326355, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36]
+INFO  [2021-08-07 19:42:06.659] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 199 MB;<br/>Memory increment during this test is: 68.5 MB
+INFO  [2021-08-07 19:42:07.000] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628365314355, 1628365326999, 20]
+INFO  [2021-08-07 19:42:07.004] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:42:08.016] - Application '/usr/bin/gedit PID:728' is running
+INFO  [2021-08-07 19:42:08.017] - "M[746,524 49x26]@S(S(0)[0,0 1280x1024]) S:1.00 C:770,537 [42 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [gedit.png, 10]
+INFO  [2021-08-07 19:42:08.814] - test suite 'example_xfce' stopped at 2021_08_07_19_42_08_814
+INFO  [2021-08-07 19:42:08.815] - Sahi-Script-Runner executed with SUCCESS
+INFO  [2021-08-07 19:42:08.815] - test suite finished
+INFO  [2021-08-07 19:42:08.816] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:42:08.816] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:42:08.924] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - OK =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_41_39_687
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: OK
+result code: 0
+db primary key: -1
+duration: 29.127 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:41:39
+end time: 07-08-2021 19:42:08
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+	======== test case "case1" ended with OK =================
+	test case id: case1
+	name: case1
+	RESULT STATE: OK
+	result code: 0
+	db primary key: -1
+	duration: 20.877 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:41:45
+	end time: 07-08-2021 19:42:06
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 1.036 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:41:45
+		end time: 07-08-2021 19:41:46
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 17.3 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:41:46
+		end time: 07-08-2021 19:42:03
+		======== test case step "Editor" ended with OK =================
+		name: Editor
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.521 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:42:03
+		end time: 07-08-2021 19:42:06
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - OK ======================
+
+INFO  [2021-08-07 19:42:09.321] - Environment.paste() with arg(s) [Initial test passed. Sakuli, Sahi and Sikuli seem to work fine. Exiting...]
+INFO  [2021-08-07 19:42:09.473] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Editor, 1628365326999, 1628365329473, 20]
+INFO  [2021-08-07 19:42:09.475] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:42:09.477] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:42:09.493] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:42:09.500] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:42:09.561] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:42:09.671] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:42:09.764] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628365313269, 1628365329501, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64, rv:45.0) Gecko/20100101 Firefox/45.0]
+INFO  [2021-08-07 19:42:09.765] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 275.5 MB;<br/>Memory increment during this test is: 133 MB
+INFO  [2021-08-07 19:42:13.903] - test suite 'example_xfce' stopped at 2021_08_07_19_42_13_903
+INFO  [2021-08-07 19:42:13.904] - Sahi-Script-Runner executed with SUCCESS
+INFO  [2021-08-07 19:42:13.907] - test suite finished
+INFO  [2021-08-07 19:42:13.909] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:42:13.910] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:42:14.028] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - OK =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_41_38_847
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: OK
+result code: 0
+db primary key: -1
+duration: 35.056 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:41:38
+end time: 07-08-2021 19:42:13
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64, rv:45.0) Gecko/20100101 Firefox/45.0
+	======== test case "case1" ended with OK =================
+	test case id: case1
+	name: case1
+	RESULT STATE: OK
+	result code: 0
+	db primary key: -1
+	duration: 16.232 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:41:53
+	end time: 07-08-2021 19:42:09
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 1.086 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:41:53
+		end time: 07-08-2021 19:41:54
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 12.644 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:41:54
+		end time: 07-08-2021 19:42:06
+		======== test case step "Editor" ended with OK =================
+		name: Editor
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.474 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:42:06
+		end time: 07-08-2021 19:42:09
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - OK ======================
+
+INFO  [2021-08-07 19:50:38.397] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:50:38.422] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:50:38.423] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:50:38.423] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:50:38.424] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:50:38.424] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:50:38.424] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:50:38.425] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:50:38.436] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:50:38.442] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:50:38.457] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:50:38.472] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:50:38.488] - test suite with guid 'example_xfce__2021_08_07_19_50_38_458' has been initialized!
+INFO  [2021-08-07 19:50:38.489] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:50:38.491] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:50:38.713] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:50:38.718] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:50:38.720] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:50:38.914] - Add RhinoScriptRunner to the JavaBackEnd
+WARN  [2021-08-07 19:50:41.319] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/translate_googleapis_com
+----
+INFO  [2021-08-07 19:50:41.923] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:50:41.943] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:50:41.944] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:50:41.945] - test-case-id = case1
+INFO  [2021-08-07 19:50:41.948] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:50:41.950] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:50:42.036] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:50:42.053] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:50:42.077] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:50:42.096] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:50:42.110] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:50:42.124] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:50:42.131] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:50:42.216] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:50:42.270] - Detected distribution: CentOS  >> overwrite some image patterns
+INFO  [2021-08-07 19:50:42.271] - "test case [id=case1, name=case1]" TestCaseAction.addImagePaths() with arg(s) [[/opt/test/example_xfce/case1/centos]]
+INFO  [2021-08-07 19:50:42.272] - load all pics from "/opt/test/example_xfce/case1/centos" in picLib
+INFO  [2021-08-07 19:50:42.289] - loaded image [id=625, path=/opt/test/example_xfce/case1/centos/625.png ]
+INFO  [2021-08-07 19:50:42.302] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/centos/calculator.png ]
+INFO  [2021-08-07 19:50:42.313] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/centos/gedit.png ]
+INFO  [2021-08-07 19:50:42.326] - loaded image [id=plus, path=/opt/test/example_xfce/case1/centos/plus.png ]
+INFO  [2021-08-07 19:50:42.341] - loaded image [id=result, path=/opt/test/example_xfce/case1/centos/result.png ]
+INFO  [2021-08-07 19:50:42.476] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:50:42.626] - _highlight(_link("Logs"));
+INFO  [2021-08-07 19:50:42.745] - _highlight(_link("Online Documentation"));
+INFO  [2021-08-07 19:50:42.913] - _highlight(_link("Test Pages"));
+INFO  [2021-08-07 19:50:43.028] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:50:43.049] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628365841947, 1628365843049, 10]
+INFO  [2021-08-07 19:50:43.051] - "/usr/bin/gnome-calculator" Application.open() - open application
+INFO  [2021-08-07 19:50:44.066] - Application '/usr/bin/gnome-calculator PID:441' is running
+INFO  [2021-08-07 19:50:44.068] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+INFO  [2021-08-07 19:50:45.686] - "R[486,352 20x24]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:50:46.735] - "R[486,352 20x24]@S(0)" Region.mouseMove()
+INFO  [2021-08-07 19:50:47.238] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:50:47.341] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+INFO  [2021-08-07 19:50:49.343] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:50:49.357] - "R[469,336 342x382]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:50:50.437] - "R[655,681 23x20]@S(0)" Region.click()
+WARN  [2021-08-07 19:50:51.121] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+WARN  [2021-08-07 19:50:51.340] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+INFO  [2021-08-07 19:50:51.367] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:50:51.464] - "M[655,681 23x20]@S(S(0)[0,0 1280x1024]) S:1.00 C:666,691 [62 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:50:52.548] - "R[740,684 14x12]@S(0)" Region.click()
+INFO  [2021-08-07 19:50:53.477] - "M[486,352 20x24]@S(S(0)[0,0 1280x1024]) S:1.00 C:496,364 [506 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:50:55.555] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628365843049, 1628365855555, 20]
+INFO  [2021-08-07 19:50:55.557] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:50:56.569] - Application '/usr/bin/gedit PID:673' is running
+INFO  [2021-08-07 19:50:56.570] - "M[749,512 45x21]@S(S(0)[0,0 1280x1024]) S:1.00 C:771,522 [74 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [gedit.png, 10]
+INFO  [2021-08-07 19:50:58.284] - Environment.paste() with arg(s) [Initial test passed. Sakuli, Sahi and Sikuli seem to work fine. Exiting...]
+INFO  [2021-08-07 19:50:58.363] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Editor, 1628365855555, 1628365858362, 20]
+INFO  [2021-08-07 19:50:58.369] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:50:58.375] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:50:58.414] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:50:58.419] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:50:58.515] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:50:58.640] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:50:58.724] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628365841947, 1628365858420, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36]
+INFO  [2021-08-07 19:50:58.728] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 310.5 MB;<br/>Memory increment during this test is: 174.5 MB
+INFO  [2021-08-07 19:51:01.034] - test suite 'example_xfce' stopped at 2021_08_07_19_51_01_34
+INFO  [2021-08-07 19:51:01.035] - Sahi-Script-Runner executed with SUCCESS
+INFO  [2021-08-07 19:51:01.036] - test suite finished
+INFO  [2021-08-07 19:51:01.037] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:51:01.038] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:51:01.145] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - OK =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_50_38_458
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: OK
+result code: 0
+db primary key: -1
+duration: 22.576 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:50:38
+end time: 07-08-2021 19:51:01
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+	======== test case "case1" ended with OK =================
+	test case id: case1
+	name: case1
+	RESULT STATE: OK
+	result code: 0
+	db primary key: -1
+	duration: 16.473 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:50:41
+	end time: 07-08-2021 19:50:58
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 1.102 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:50:41
+		end time: 07-08-2021 19:50:43
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 12.506 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:50:43
+		end time: 07-08-2021 19:50:55
+		======== test case step "Editor" ended with OK =================
+		name: Editor
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.807 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:50:55
+		end time: 07-08-2021 19:50:58
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - OK ======================
+
+INFO  [2021-08-07 19:54:58.957] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:54:59.026] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:54:59.026] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:54:59.027] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:54:59.030] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:54:59.031] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:54:59.033] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:54:59.034] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:54:59.064] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:54:59.086] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:54:59.121] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:54:59.166] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:54:59.321] - test suite with guid 'example_xfce__2021_08_07_19_54_59_125' has been initialized!
+INFO  [2021-08-07 19:54:59.325] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:54:59.327] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:54:59.335] - added '<script src='/_s_/spr/sakuli/inject.js'></script>' to Sahi inject config file '/headless/sakuli/sahi/config/inject_top.txt'
+INFO  [2021-08-07 19:54:59.370] - copied file '/headless/sakuli/sakuli-v1.1.0/libs/js/internal/inject.js' to target '/headless/sakuli/sahi/htdocs/spr/sakuli/inject.js'
+INFO  [2021-08-07 19:54:59.625] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:54:59.636] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:54:59.650] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:55:00.310] - Add RhinoScriptRunner to the JavaBackEnd
+INFO  [2021-08-07 19:55:00.527] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:55:00.588] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:55:00.588] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:55:00.589] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:55:00.590] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:55:00.592] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:55:00.594] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:55:00.598] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:55:00.622] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:55:00.691] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:55:00.757] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:55:01.058] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:55:01.108] - test suite with guid 'example_xfce__2021_08_07_19_55_00_758' has been initialized!
+INFO  [2021-08-07 19:55:01.113] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:55:01.120] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:55:01.128] - added '<script src='/_s_/spr/sakuli/inject.js'></script>' to Sahi inject config file '/headless/sakuli/sahi/config/inject_top.txt'
+INFO  [2021-08-07 19:55:01.168] - copied file '/headless/sakuli/sakuli-v1.1.0/libs/js/internal/inject.js' to target '/headless/sakuli/sahi/htdocs/spr/sakuli/inject.js'
+INFO  [2021-08-07 19:55:01.425] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:55:01.433] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:55:01.436] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:55:01.812] - Add RhinoScriptRunner to the JavaBackEnd
+WARN  [2021-08-07 19:55:05.409] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/translate_googleapis_com
+----
+INFO  [2021-08-07 19:55:05.729] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:55:05.762] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:55:05.768] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:55:05.769] - test-case-id = case1
+INFO  [2021-08-07 19:55:05.771] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:55:05.774] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:55:05.868] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:55:05.884] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:55:05.905] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:55:05.921] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:55:05.949] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:55:05.979] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:55:05.986] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:55:06.083] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:55:06.183] - Detected distribution: CentOS  >> overwrite some image patterns
+INFO  [2021-08-07 19:55:06.186] - "test case [id=case1, name=case1]" TestCaseAction.addImagePaths() with arg(s) [[/opt/test/example_xfce/case1/centos]]
+INFO  [2021-08-07 19:55:06.188] - load all pics from "/opt/test/example_xfce/case1/centos" in picLib
+INFO  [2021-08-07 19:55:06.222] - loaded image [id=625, path=/opt/test/example_xfce/case1/centos/625.png ]
+INFO  [2021-08-07 19:55:06.254] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/centos/calculator.png ]
+INFO  [2021-08-07 19:55:06.275] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/centos/gedit.png ]
+INFO  [2021-08-07 19:55:06.300] - loaded image [id=plus, path=/opt/test/example_xfce/case1/centos/plus.png ]
+INFO  [2021-08-07 19:55:06.320] - loaded image [id=result, path=/opt/test/example_xfce/case1/centos/result.png ]
+INFO  [2021-08-07 19:55:06.473] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:55:06.608] - _highlight(_link("Logs"));
+INFO  [2021-08-07 19:55:06.736] - _highlight(_link("Online Documentation"));
+INFO  [2021-08-07 19:55:06.928] - _highlight(_link("Test Pages"));
+INFO  [2021-08-07 19:55:07.060] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:55:07.129] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628366105771, 1628366107128, 10]
+INFO  [2021-08-07 19:55:07.131] - "/usr/bin/gnome-calculator" Application.open() - open application
+WARN  [2021-08-07 19:55:07.291] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/tiles_services_mozilla_com
+----
+INFO  [2021-08-07 19:55:08.164] - Application '/usr/bin/gnome-calculator PID:503' is running
+INFO  [2021-08-07 19:55:08.168] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+WARN  [2021-08-07 19:55:13.548] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+WARN  [2021-08-07 19:55:14.186] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+INFO  [2021-08-07 19:55:15.334] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:55:15.387] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:55:15.428] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:55:15.496] - test-case-id = case1
+INFO  [2021-08-07 19:55:15.497] - "R[486,352 20x24]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:55:15.554] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:55:15.606] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:55:15.962] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:55:15.996] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:55:16.050] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:55:16.124] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:55:16.166] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:55:16.595] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:55:16.599] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:55:16.609] - "R[486,352 20x24]@S(0)" Region.mouseMove()
+INFO  [2021-08-07 19:55:16.713] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:55:16.975] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:55:17.125] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:55:17.136] - _highlight(_link("Logs"));
+INFO  [2021-08-07 19:55:17.242] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+INFO  [2021-08-07 19:55:17.254] - _highlight(_link("Online Documentation"));
+INFO  [2021-08-07 19:55:17.367] - _highlight(_link("Test Pages"));
+WARN  [2021-08-07 19:55:17.463] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/shavar_services_mozilla_com
+----
+INFO  [2021-08-07 19:55:17.485] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:55:17.573] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628366115553, 1628366117572, 10]
+INFO  [2021-08-07 19:55:17.574] - "/usr/bin/gnome-calculator" Application.open() - open application
+INFO  [2021-08-07 19:55:18.587] - Application '/usr/bin/gnome-calculator PID:556' is running
+INFO  [2021-08-07 19:55:18.589] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+INFO  [2021-08-07 19:55:19.245] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:55:19.264] - "R[469,336 342x382]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:55:20.316] - "R[486,375 19x25]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:55:20.371] - "R[655,681 23x20]@S(0)" Region.click()
+INFO  [2021-08-07 19:55:21.310] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:55:21.377] - "R[486,375 19x25]@S(0)" Region.mouseMove()
+INFO  [2021-08-07 19:55:21.412] - "M[655,681 23x20]@S(S(0)[0,0 1280x1024]) S:1.00 C:666,691 [85 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:55:21.881] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:55:21.989] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+INFO  [2021-08-07 19:55:22.523] - "R[740,684 14x12]@S(0)" Region.click()
+INFO  [2021-08-07 19:55:23.451] - "M[486,352 20x24]@S(S(0)[0,0 1280x1024]) S:1.00 C:496,364 [147 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:55:23.991] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:55:24.010] - "R[471,363 338x327]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:55:25.133] - "R[660,662 13x13]@S(0)" Region.click()
+INFO  [2021-08-07 19:55:25.526] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628366107128, 1628366125525, 20]
+INFO  [2021-08-07 19:55:25.527] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:55:26.065] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:55:26.178] - "M[660,662 13x13]@S(S(0)[0,0 1280x1024]) S:0.99 C:666,668 [100 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:55:26.539] - Application '/usr/bin/gedit PID:788' is running
+INFO  [2021-08-07 19:55:26.540] - "M[749,512 45x21]@S(S(0)[0,0 1280x1024]) S:1.00 C:771,522 [81 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [gedit.png, 10]
+INFO  [2021-08-07 19:55:27.241] - "R[712,660 75x18]@S(0)" Region.click()
+INFO  [2021-08-07 19:55:27.968] - Environment.paste() with arg(s) [Initial test passed. Sakuli, Sahi and Sikuli seem to work fine. Exiting...]
+INFO  [2021-08-07 19:55:28.081] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Editor, 1628366125525, 1628366128080, 20]
+INFO  [2021-08-07 19:55:28.086] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:55:28.093] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:55:28.119] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:55:28.124] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:55:28.151] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:55:28.168] - "M[486,375 19x25]@S(S(0)[0,0 1280x1024]) S:0.99 C:495,387 [497 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:55:28.267] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:55:28.329] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628366105771, 1628366128126, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36]
+INFO  [2021-08-07 19:55:28.330] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 268 MB;<br/>Memory increment during this test is: 131.5 MB
+INFO  [2021-08-07 19:55:30.283] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628366117572, 1628366130282, 20]
+INFO  [2021-08-07 19:55:30.284] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:55:31.291] - Application '/usr/bin/gedit PID:735' is running
+INFO  [2021-08-07 19:55:31.293] - "M[746,524 49x26]@S(S(0)[0,0 1280x1024]) S:1.00 C:770,537 [48 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [gedit.png, 10]
+INFO  [2021-08-07 19:55:32.264] - test suite 'example_xfce' stopped at 2021_08_07_19_55_32_264
+INFO  [2021-08-07 19:55:32.265] - Sahi-Script-Runner executed with SUCCESS
+INFO  [2021-08-07 19:55:32.266] - test suite finished
+INFO  [2021-08-07 19:55:32.267] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:55:32.268] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:55:32.371] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - OK =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_54_59_125
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: OK
+result code: 0
+db primary key: -1
+duration: 33.139 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:54:59
+end time: 07-08-2021 19:55:32
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+	======== test case "case1" ended with OK =================
+	test case id: case1
+	name: case1
+	RESULT STATE: OK
+	result code: 0
+	db primary key: -1
+	duration: 22.355 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:55:05
+	end time: 07-08-2021 19:55:28
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 1.357 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:55:05
+		end time: 07-08-2021 19:55:07
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 18.397 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:55:07
+		end time: 07-08-2021 19:55:25
+		======== test case step "Editor" ended with OK =================
+		name: Editor
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.555 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:55:25
+		end time: 07-08-2021 19:55:28
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - OK ======================
+
+INFO  [2021-08-07 19:55:32.714] - Environment.paste() with arg(s) [Initial test passed. Sakuli, Sahi and Sikuli seem to work fine. Exiting...]
+INFO  [2021-08-07 19:55:32.822] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Editor, 1628366130282, 1628366132822, 20]
+INFO  [2021-08-07 19:55:32.824] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:55:32.825] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:55:32.842] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:55:32.848] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:55:32.981] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:55:33.096] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:55:33.157] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628366115552, 1628366132851, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64, rv:45.0) Gecko/20100101 Firefox/45.0]
+INFO  [2021-08-07 19:55:33.160] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 245 MB;<br/>Memory increment during this test is: 102 MB
+INFO  [2021-08-07 19:55:37.809] - test suite 'example_xfce' stopped at 2021_08_07_19_55_37_809
+INFO  [2021-08-07 19:55:37.810] - Sahi-Script-Runner executed with SUCCESS
+INFO  [2021-08-07 19:55:37.811] - test suite finished
+INFO  [2021-08-07 19:55:37.812] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:55:37.814] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:55:38.034] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - OK =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_55_00_758
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: OK
+result code: 0
+db primary key: -1
+duration: 37.051 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:55:00
+end time: 07-08-2021 19:55:37
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64, rv:45.0) Gecko/20100101 Firefox/45.0
+	======== test case "case1" ended with OK =================
+	test case id: case1
+	name: case1
+	RESULT STATE: OK
+	result code: 0
+	db primary key: -1
+	duration: 17.299 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:55:15
+	end time: 07-08-2021 19:55:32
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.019 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:55:15
+		end time: 07-08-2021 19:55:17
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 12.71 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:55:17
+		end time: 07-08-2021 19:55:30
+		======== test case step "Editor" ended with OK =================
+		name: Editor
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.54 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:55:30
+		end time: 07-08-2021 19:55:32
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - OK ======================
+
+INFO  [2021-08-07 19:58:02.687] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:58:02.710] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:58:02.737] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:58:02.738] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:58:02.743] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:58:02.745] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:58:02.749] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:58:02.751] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:58:02.753] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:58:02.758] - set 'sakuli.log.folder' to '/opt/test/example_xfce/_logs'
+INFO  [2021-08-07 19:58:02.760] - set 'sakuli.log.pattern' to '%-5level [%d{YYYY-MM-dd HH:mm:ss.SSS}] - %msg%n'
+INFO  [2021-08-07 19:58:02.762] - set 'log.level.sakuli' to 'INFO'
+INFO  [2021-08-07 19:58:02.765] - set 'log.level.sahi' to 'WARN'
+INFO  [2021-08-07 19:58:02.770] - set 'log.level.sikuli' to 'WARN'
+INFO  [2021-08-07 19:58:02.775] - set 'log.level.spring' to 'WARN'
+INFO  [2021-08-07 19:58:02.782] - set 'log.level.root' to 'INFO'
+INFO  [2021-08-07 19:58:02.797] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:58:02.814] - set logback configuration file '/headless/sakuli/sakuli-v1.1.0/config/sakuli-log-config.xml'
+INFO  [2021-08-07 19:58:02.827] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:58:02.843] - sucessfully init sikuli-X screen!
+INFO  [2021-08-07 19:58:02.862] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:58:02.871] - initialize test suite with id 'example_xfce'
+INFO  [2021-08-07 19:58:02.927] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:58:03.072] - test suite with guid 'example_xfce__2021_08_07_19_58_02_864' has been initialized!
+INFO  [2021-08-07 19:58:03.075] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:58:03.082] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:58:03.094] - added '<script src='/_s_/spr/sakuli/inject.js'></script>' to Sahi inject config file '/headless/sakuli/sahi/config/inject_top.txt'
+INFO  [2021-08-07 19:58:03.109] - 
+--- TestSuite initialization: read test suite information of file "/opt/test/example_xfce/testsuite.suite" ----
+// use "//" to disable single testcases
+//
+// ... define your tescase like:
+// folder-of-testcase http://www.startURL.de
+//
+case1/sakuli_demo.js http://sahi.example.com/_s_/dyn/Driver_initialized
+ --- End of File "/opt/test/example_xfce/testsuite.suite" ---
+INFO  [2021-08-07 19:58:03.113] - copied file '/headless/sakuli/sakuli-v1.1.0/libs/js/internal/inject.js' to target '/headless/sakuli/sahi/htdocs/spr/sakuli/inject.js'
+INFO  [2021-08-07 19:58:03.176] - test suite with guid 'example_xfce__2021_08_07_19_58_02_873' has been initialized!
+INFO  [2021-08-07 19:58:03.178] - Initialize Sahi Proxy! 
+INFO  [2021-08-07 19:58:03.182] - START Sahi-PROXY: Sahi-Home folder '/headless/sakuli/sahi', Sahi-Configuration folder '/headless/sakuli/sahi/userdata'
+INFO  [2021-08-07 19:58:03.189] - added '<script src='/_s_/spr/sakuli/inject.js'></script>' to Sahi inject config file '/headless/sakuli/sahi/config/inject_top.txt'
+INFO  [2021-08-07 19:58:03.220] - copied file '/headless/sakuli/sakuli-v1.1.0/libs/js/internal/inject.js' to target '/headless/sakuli/sahi/htdocs/spr/sakuli/inject.js'
+INFO  [2021-08-07 19:58:03.389] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:58:03.399] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:58:03.406] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:58:03.457] - Start Sakuli-Test-Suite from folder "/opt/test/example_xfce"
+INFO  [2021-08-07 19:58:03.539] - connect Sahi-TestRunner:http://localhost:9999
+INFO  [2021-08-07 19:58:03.544] - Sahi-Script-Runner starts!
+
+INFO  [2021-08-07 19:58:04.040] - Add RhinoScriptRunner to the JavaBackEnd
+INFO  [2021-08-07 19:58:04.054] - Add RhinoScriptRunner to the JavaBackEnd
+WARN  [2021-08-07 19:58:06.058] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/tiles_services_mozilla_com
+----
+WARN  [2021-08-07 19:58:07.149] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/translate_googleapis_com
+----
+INFO  [2021-08-07 19:58:07.756] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:58:07.779] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:58:07.782] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:58:07.785] - test-case-id = case1
+INFO  [2021-08-07 19:58:07.788] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:58:07.791] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:58:07.985] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:58:08.025] - set default path for images to the test case folder "/opt/test/example_xfce/case1"
+INFO  [2021-08-07 19:58:08.037] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:58:08.124] - "test case not initialized" TestCaseAction.getIdFromPath() - convert the path of the test case file to a valid test case ID with arg(s) [/opt/test/example_xfce/case1/undefined]
+INFO  [2021-08-07 19:58:08.130] - Return a test-case-id for "/opt/test/example_xfce/case1/undefined"
+INFO  [2021-08-07 19:58:08.132] - test-case-id = case1
+INFO  [2021-08-07 19:58:08.134] - "test case not initialized" TestCaseAction.init() - init a new test case with arg(s) [case1, 40, 60, [/opt/test/example_xfce/case1]]
+INFO  [2021-08-07 19:58:08.147] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:58:08.145] - load all pics from "/opt/test/example_xfce/case1" in picLib
+INFO  [2021-08-07 19:58:08.169] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:58:08.201] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:58:08.227] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:58:08.236] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:58:08.321] - loaded image [id=625, path=/opt/test/example_xfce/case1/625.png ]
+INFO  [2021-08-07 19:58:08.333] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/calculator.png ]
+INFO  [2021-08-07 19:58:08.349] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/gedit.png ]
+INFO  [2021-08-07 19:58:08.362] - loaded image [id=plus, path=/opt/test/example_xfce/case1/plus.png ]
+INFO  [2021-08-07 19:58:08.374] - loaded image [id=result (1), path=/opt/test/example_xfce/case1/result (1).png ]
+INFO  [2021-08-07 19:58:08.386] - loaded image [id=result, path=/opt/test/example_xfce/case1/result.png ]
+INFO  [2021-08-07 19:58:08.391] - set isRequestDelayActive=false
+INFO  [2021-08-07 19:58:08.487] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:58:08.560] - Detected distribution: CentOS  >> overwrite some image patterns
+INFO  [2021-08-07 19:58:08.561] - "test case [id=case1, name=case1]" TestCaseAction.addImagePaths() with arg(s) [[/opt/test/example_xfce/case1/centos]]
+INFO  [2021-08-07 19:58:08.562] - load all pics from "/opt/test/example_xfce/case1/centos" in picLib
+INFO  [2021-08-07 19:58:08.579] - loaded image [id=625, path=/opt/test/example_xfce/case1/centos/625.png ]
+INFO  [2021-08-07 19:58:08.596] - loaded image [id=calculator, path=/opt/test/example_xfce/case1/centos/calculator.png ]
+INFO  [2021-08-07 19:58:08.611] - loaded image [id=gedit, path=/opt/test/example_xfce/case1/centos/gedit.png ]
+INFO  [2021-08-07 19:58:08.626] - loaded image [id=plus, path=/opt/test/example_xfce/case1/centos/plus.png ]
+INFO  [2021-08-07 19:58:08.640] - loaded image [id=result, path=/opt/test/example_xfce/case1/centos/result.png ]
+INFO  [2021-08-07 19:58:08.750] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:58:08.867] - _highlight(_link("Logs"));
+INFO  [2021-08-07 19:58:08.986] - _highlight(_link("Online Documentation"));
+INFO  [2021-08-07 19:58:09.096] - Now start to execute the test case 'case1' ! 
+ ....
+ ...
+....
+INFO  [2021-08-07 19:58:09.108] - _highlight(_link("Test Pages"));
+INFO  [2021-08-07 19:58:09.239] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:58:09.246] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628366288134, 1628366289246, 10]
+INFO  [2021-08-07 19:58:09.249] - "/usr/bin/gnome-calculator" Application.open() - open application
+INFO  [2021-08-07 19:58:09.395] - _highlight(_link(/SSL M.*/));
+INFO  [2021-08-07 19:58:09.558] - _highlight(_link("Logs"));
+INFO  [2021-08-07 19:58:09.683] - _highlight(_link("Online Documentation"));
+WARN  [2021-08-07 19:58:09.696] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/shavar_services_mozilla_com
+----
+INFO  [2021-08-07 19:58:09.803] - _highlight(_link("Test Pages"));
+INFO  [2021-08-07 19:58:09.917] - _highlight(_link("Sample Application"));
+INFO  [2021-08-07 19:58:10.016] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Test Sahi landing page, 1628366287787, 1628366290016, 10]
+INFO  [2021-08-07 19:58:10.019] - "/usr/bin/gnome-calculator" Application.open() - open application
+INFO  [2021-08-07 19:58:10.266] - Application '/usr/bin/gnome-calculator PID:507' is running
+INFO  [2021-08-07 19:58:10.269] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+INFO  [2021-08-07 19:58:11.046] - Application '/usr/bin/gnome-calculator PID:544' is running
+INFO  [2021-08-07 19:58:11.048] - "R[0,0 1280x1024]@S(0)" Region.waitForImage() - wait for image for x seconds with arg(s) [calculator.png, 5]
+INFO  [2021-08-07 19:58:14.388] - "R[486,375 19x25]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:58:15.005] - "R[486,352 20x24]@S(0)" Region.highlight()
+INFO  [2021-08-07 19:58:15.424] - "R[486,375 19x25]@S(0)" Region.mouseMove()
+INFO  [2021-08-07 19:58:15.928] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:58:16.032] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+INFO  [2021-08-07 19:58:16.042] - "R[486,352 20x24]@S(0)" Region.mouseMove()
+WARN  [2021-08-07 19:58:16.455] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+INFO  [2021-08-07 19:58:16.546] - Environment.type() - type over system keyboard with arg(s) [525]
+INFO  [2021-08-07 19:58:16.653] - Environment.sleep() - sleep and do nothing for x seconds with arg(s) [2.0]
+WARN  [2021-08-07 19:58:16.655] - 
+----
+Certificate not found: /headless/sakuli/sahi/userdata/certs/ssl_gstatic_com
+----
+INFO  [2021-08-07 19:58:18.036] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:58:18.062] - "R[471,363 338x327]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:58:18.657] - "/usr/bin/gnome-calculator" Application.getRegion() - get a Region object from the application
+INFO  [2021-08-07 19:58:18.669] - "R[469,336 342x382]@S(0)" Region.find() - find the image in this region with arg(s) [plus.png]
+INFO  [2021-08-07 19:58:19.151] - "R[660,662 13x13]@S(0)" Region.click()
+INFO  [2021-08-07 19:58:19.737] - "R[655,681 23x20]@S(0)" Region.click()
+INFO  [2021-08-07 19:58:20.081] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:58:20.177] - "M[660,662 13x13]@S(S(0)[0,0 1280x1024]) S:0.99 C:666,668 [70 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:58:20.676] - Region.type() - type over system keyboard with arg(s) [100]
+INFO  [2021-08-07 19:58:20.780] - "M[655,681 23x20]@S(S(0)[0,0 1280x1024]) S:1.00 C:666,691 [51 msec]" Region.find() - find the image in this region with arg(s) [result.png]
+INFO  [2021-08-07 19:58:21.247] - "R[712,660 75x18]@S(0)" Region.click()
+INFO  [2021-08-07 19:58:21.846] - "R[740,684 14x12]@S(0)" Region.click()
+INFO  [2021-08-07 19:58:22.178] - "M[486,375 19x25]@S(S(0)[0,0 1280x1024]) S:0.99 C:495,387 [2016 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:58:22.775] - "M[486,352 20x24]@S(S(0)[0,0 1280x1024]) S:1.00 C:496,364 [115 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [625, 5]
+INFO  [2021-08-07 19:58:25.555] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628366289246, 1628366305555, 20]
+INFO  [2021-08-07 19:58:25.558] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:58:26.321] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Calculation, 1628366290016, 1628366306321, 20]
+INFO  [2021-08-07 19:58:26.322] - "/usr/bin/gedit" Application.open() - open application
+INFO  [2021-08-07 19:58:26.580] - Application '/usr/bin/gedit PID:770' is running
+INFO  [2021-08-07 19:58:26.582] - "M[749,512 45x21]@S(S(0)[0,0 1280x1024]) S:1.00 C:771,522 [85 msec]" Region.waitForImage() - wait for image for x seconds with arg(s) [gedit.png, 10]
+INFO  [2021-08-07 19:58:27.978] - Environment.paste() with arg(s) [Initial test passed. Sakuli, Sahi and Sikuli seem to work fine. Exiting...]
+INFO  [2021-08-07 19:58:28.051] - "test case [id=case1, name=case1]" TestCaseAction.addTestCaseStep() - add a step to the current test case with arg(s) [Editor, 1628366305555, 1628366308051, 20]
+INFO  [2021-08-07 19:58:28.053] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:58:28.054] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:58:28.069] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:58:28.073] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:58:28.140] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:58:28.263] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:58:28.278] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628366288134, 1628366308074, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36]
+INFO  [2021-08-07 19:58:28.280] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 224 MB;<br/>Memory increment during this test is: 136.5 MB
+INFO  [2021-08-07 19:58:30.163] - test suite 'example_xfce' stopped at 2021_08_07_19_58_30_162
+INFO  [2021-08-07 19:58:30.165] - Sahi-Script-Runner executed with SUCCESS
+INFO  [2021-08-07 19:58:30.166] - test suite finished
+INFO  [2021-08-07 19:58:30.168] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:58:30.169] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:58:30.285] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - OK =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_58_02_864
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: OK
+result code: 0
+db primary key: -1
+duration: 27.298 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:58:02
+end time: 07-08-2021 19:58:30
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+	======== test case "case1" ended with OK =================
+	test case id: case1
+	name: case1
+	RESULT STATE: OK
+	result code: 0
+	db primary key: -1
+	duration: 19.94 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:58:08
+	end time: 07-08-2021 19:58:28
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 1.112 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:58:08
+		end time: 07-08-2021 19:58:09
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 16.309 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:58:09
+		end time: 07-08-2021 19:58:25
+		======== test case step "Editor" ended with OK =================
+		name: Editor
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.496 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:58:25
+		end time: 07-08-2021 19:58:28
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - OK ======================
+
+WARN  [2021-08-07 19:58:32.358] - verified 5 times if application '/usr/bin/gedit PID:753' is running
+INFO  [2021-08-07 19:58:32.435] - create screen shot for error "Application '/usr/bin/gedit PID:753' failed to open or is not running"
+INFO  [2021-08-07 19:58:32.625] - screen shot saved to file "/opt/test/example_xfce/_logs/_screenshots/2021_08_07_19_58_32_436_Application_usr_bin_gedit_.png"
+ERROR [2021-08-07 19:58:32.628] - Application '/usr/bin/gedit PID:753' failed to open or is not running
+org.sakuli.exceptions.SakuliExceptionWithScreenshot: Application '/usr/bin/gedit PID:753' failed to open or is not running
+	at org.sakuli.exceptions.SakuliExceptionHandler.transformException(SakuliExceptionHandler.java:265) [sakuli.jar:na]
+	at org.sakuli.exceptions.SakuliExceptionHandler.processException(SakuliExceptionHandler.java:152) [sakuli.jar:na]
+	at org.sakuli.exceptions.SakuliExceptionHandler.handleException(SakuliExceptionHandler.java:140) [sakuli.jar:na]
+	at org.sakuli.exceptions.SakuliExceptionHandler.handleException(SakuliExceptionHandler.java:276) [sakuli.jar:na]
+	at org.sakuli.exceptions.SakuliExceptionHandler.handleException(SakuliExceptionHandler.java:280) [sakuli.jar:na]
+	at org.sakuli.actions.environment.Application.open(Application.java:94) [sakuli.jar:na]
+	at org.sakuli.actions.environment.Application.open(Application.java:1) [sakuli.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.Interpreter.interpretLoop(Interpreter.java:1479) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.Interpreter.interpret(Interpreter.java:815) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.InterpretedFunction.call(InterpretedFunction.java:109) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.InterpretedFunction.exec(InterpretedFunction.java:120) [rhino-1.7.7.1.jar:1.7.7.1]
+	at org.mozilla.javascript.Context.evaluateString(Context.java:1219) [rhino-1.7.7.1.jar:1.7.7.1]
+	at net.sf.sahi.rhino.RhinoScriptRunner.run(RhinoScriptRunner.java:114) [sakuli.jar:na]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_151]
+Caused by: org.sakuli.exceptions.SakuliException: Application '/usr/bin/gedit PID:753' failed to open or is not running
+	... 18 common frames omitted
+INFO  [2021-08-07 19:58:32.633] - "/usr/bin/gnome-calculator" Application.closeApp() with arg(s) [true]
+INFO  [2021-08-07 19:58:32.635] - Close application with name or path "/usr/bin/gnome-calculator".
+INFO  [2021-08-07 19:58:32.664] - "/usr/bin/gedit" Application.kill() with arg(s) [true]
+INFO  [2021-08-07 19:58:32.674] - =========== SAVE Test Case 'case1' ==================
+INFO  [2021-08-07 19:58:32.694] - _sahi.setServerVar('lastURL', window.document.location.href);
+INFO  [2021-08-07 19:58:32.806] - _sahi.setServerVar('browser', navigator.userAgent);
+INFO  [2021-08-07 19:58:32.879] - "test case [id=case1, name=case1]" TestCaseAction.saveResult() - save the result of the current test case with arg(s) [case1, 1628366287787, 1628366312676, http://sahi.example.com/_s_/dyn/Driver_initialized, Mozilla/5.0 (X11, Linux x86_64, rv:45.0) Gecko/20100101 Firefox/45.0]
+INFO  [2021-08-07 19:58:32.880] - Total Memory in JVM (Xmx) is: 910.5 MB;<br/>Memory currently in use is: 215.5 MB;<br/>Memory increment during this test is: 130.5 MB
+INFO  [2021-08-07 19:58:36.055] - test suite 'example_xfce' stopped at 2021_08_07_19_58_36_55
+INFO  [2021-08-07 19:58:36.056] - Sahi-Script-Runner executed with FAILURE
+INFO  [2021-08-07 19:58:36.056] - test suite finished
+INFO  [2021-08-07 19:58:36.058] - SHUTDOWN SAHI-Proxy SUCCESSFULLY
+INFO  [2021-08-07 19:58:36.059] - ========== TEAR-DOWN SAKULI TEST SUITE 'example_xfce' ==========
+INFO  [2021-08-07 19:58:36.182] - 
+=========== RESULT of SAKULI Testsuite "example_xfce" - ERRORS =================
+test suite id: example_xfce
+guid: example_xfce__2021_08_07_19_58_02_873
+name: example test suite inside of the Xfce desktop for Sakuli
+RESULT STATE: ERRORS
+result code: 6
+db primary key: -1
+duration: 33.182 sec.
+warning time: 50 sec.
+critical time: 70 sec.
+start time: 07-08-2021 19:58:02
+end time: 07-08-2021 19:58:36
+db primary key of job table: -1
+browser: Mozilla/5.0 (X11, Linux x86_64, rv:45.0) Gecko/20100101 Firefox/45.0
+	======== test case "case1" ended with ERRORS =================
+	test case id: case1
+	name: case1
+	RESULT STATE: ERRORS
+	result code: 4
+	db primary key: -1
+	duration: 24.889 sec.
+	warning time: 40 sec.
+	critical time: 60 sec.
+	start time: 07-08-2021 19:58:07
+	end time: 07-08-2021 19:58:32
+	start URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+	last URL: http://sahi.example.com/_s_/dyn/Driver_initialized
+		======== test case step "Test_Sahi_landing_page" ended with OK =================
+		name: Test_Sahi_landing_page
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 2.229 sec.
+		warning time: 10 sec.
+		start time: 07-08-2021 19:58:07
+		end time: 07-08-2021 19:58:10
+		======== test case step "Calculation" ended with OK =================
+		name: Calculation
+		RESULT STATE: OK
+		result code: 0
+		db primary key: -1
+		duration: 16.305 sec.
+		warning time: 20 sec.
+		start time: 07-08-2021 19:58:10
+		end time: 07-08-2021 19:58:26
+		======== test case step "Editor" ended with ERRORS =================
+		name: Editor
+		RESULT STATE: ERRORS
+		result code: 4
+		ERRORS:Application '/usr/bin/gedit PID:753' failed to open or is not running
+		ERROR - SCREENSHOT: /opt/test/example_xfce/_logs/_screenshots/2021_08_07_19_58_32_436_Application_usr_bin_gedit_.png
+		db primary key: -1
+		duration: -1.0 sec.
+===========  SAKULI Testsuite "example_xfce" execution FINISHED - ERRORS ======================
+
+ERROR [2021-08-07 19:58:36.183] - ERROR:
+CASE "case1": 
+	STEP "Editor": Application '/usr/bin/gedit PID:753' failed to open or is not running
+

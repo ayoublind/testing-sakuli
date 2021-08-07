@@ -1,0 +1,20 @@
+version: "3.3"
+services:
+  sakuli_test_ubuntu_firefox:
+    image: consol/sakuli-ubuntu-xfce:v1.1.0
+    volumes:
+        - .:/opt/test
+    ports:
+        - 5911:5901
+        - 6911:6901
+    user: '1000'
+    command: run /opt/test/example_xfce
+  sakuli_test_centos_chrome:
+    image: consol/sakuli-centos-xfce:v1.1.0
+    volumes:
+        - .:/opt/test
+    ports:
+        - 5912:5901
+        - 6912:6901
+    user: '1000'
+    command: run /opt/test/example_xfce -browser chrome
